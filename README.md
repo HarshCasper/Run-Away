@@ -8,8 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
-Run-Away is a Three-Dimensional Racing Game developed using Three.js Javascript Library which sees the User controlling a Runner on 
-a track as he avoid the obstacles aiming for the high score. 
+🎮🕹️  Run-Away is a Three-Dimensional Racing Game developed using Three.js Javascript Library which sees the User controlling a Runner on a track as he avoid the obstacles aiming for the high score. ❤️
 
 ## Technology Stack
 
